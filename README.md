@@ -12,7 +12,7 @@ It is a team based project
 
 - **Team Name**: ShaktiAI
 - **Team Members**:
-  -  Nandini Golla – Frontend Developer & Coordinator
+  -  Nandini Golla(TeamLeader) – Frontend Developer & Coordinator
   -  Madhuri Jakkampudi – AI Model Integration
   -  Udayasri Paravatha – Backend & Database
   -  Matham Saideepthi – UI/UX and Design
