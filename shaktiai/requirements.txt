@@ -1,0 +1,7 @@
+streamlit
+gtts
+pydub
+speechrecognition
+pandas
+pyaudio
+numpy
