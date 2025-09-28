@@ -1,0 +1,25 @@
+{
+    // Set Python interpreter (virtual environment path)
+    "python.pythonPath": "venv/Scripts/python.exe",
+
+    // Auto format code when saving
+    "editor.formatOnSave": true,
+
+    // Linting (error checking)
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": false,
+
+    // Exclude unnecessary folders from Explorer
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.venv": true,
+        "**/migrations": true
+    },
+
+    // Django specific: enable Django templates syntax
+    "files.associations": {
+        "**/templates/**/*.html": "html",
+        "**/templates/**/*.htm": "html"
+    }
+}
